@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+
 def align_text(words, width, align):
     """
     Receives a list of words and align them.
